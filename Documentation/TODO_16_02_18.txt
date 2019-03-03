@@ -1,0 +1,15 @@
+New tasks TODO; 16th February Edition
+
+1. Plane model rendering implementation & integration.
+2. Loading buffer for adjacent times
+	e.g. +-2hrs
+3. Rework algorithm for scanning data files
+	more efficient, not linear search.
+4. MacOS Testing/Windows Testing (OSX, 7,8,9)
+5. Testing plan for requirements
+	Unit Tests
+6. COMMENT YOUR CODE please, doesnt have to be line by line just so we know what f(arg) does
+7.GUI - widen viewport, finish current implementation.
+	I'm not entirely up to speed with the GUI plan, just keep making progress
+8. Class Diagram - after sufficient commenting
+9. Cleanup Branches - Rename, Delete

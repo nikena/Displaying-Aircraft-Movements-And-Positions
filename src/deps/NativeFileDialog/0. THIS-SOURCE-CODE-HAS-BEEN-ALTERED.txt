@@ -1,0 +1,6 @@
+As stated in the LICENSE file:
+
+2. Altered source versions must be plainly marked as such, and must not be
+   misrepresented as being the original software.
+
+The following source code within this folder and subfolders have been altered as to allow it to build correctly, as there existed platform specific bugs.

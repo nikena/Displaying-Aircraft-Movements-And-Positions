@@ -1,0 +1,13 @@
+What we have at the moment
++adsb to csv converter
++can read csv data
++can render data in display
+
+What we need to do:
+-Map texture of earth - HUGO
+-Viewport Rendering - EMMANUEL
+-Texturing + GUI - VICTORIA/NOURA/MARK
+-Time Data - JOEL/RU
+-Documentation - EVERYONE/JOEL
+-Utility icons (splash,.ico, etc.) -not important
+-Plane models - HUGO

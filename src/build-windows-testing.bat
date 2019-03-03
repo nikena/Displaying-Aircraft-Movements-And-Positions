@@ -1,0 +1,1 @@
+g++ -o ../bin/testing-airport-renderer-windows.exe testing/testingmain.cpp ./deps/NativeFileDialog/src/nfd_common.c ./deps/NativeFileDialog/src/nfd_win.cpp -I./deps -L./deps -static-libgcc -static-libstdc++ -static -DGLEW_STATIC -lglu32 -lglfw3 -lgdi32 -lopengl32 -L./deps/NativeFileDialog/build/lib/Release/x64/nfd.lib -lole32 -luuid -I./deps/NativeFileDialog/include -std=c++11

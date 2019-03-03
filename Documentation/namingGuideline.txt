@@ -1,0 +1,11 @@
+Naming Guidelines
+
+1.No Spaces in files or folder names
+2.Try to keep to folder names in title case - e.g "ThisFolder" or "WorkForPlanes"
+3.Try to keep to file names in camel case - e.g "exampleFile" or "planesAreCool"
+
+4.Minutes filenames should be written as such
+	4a. Group meetings = minutesGroup20_DD_MM
+				e.g minutesGroup20_10_12
+	4b. Supervisor meetings = minutesSupervisor20_DD_MM
+				e.g minutesSupervisor20_10_12
